@@ -1,0 +1,10 @@
+asgiref
+crispy-bootstrap4
+Django
+django-crispy-forms
+django-jazzmin
+Pillow
+sqlparse
+typing_extensions
+gunicorn
+whitenoise
